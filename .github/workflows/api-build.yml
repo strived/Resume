@@ -1,0 +1,9 @@
+name: api-build
+
+on:
+  push:
+    paths:
+      - ".github/workflows/api-build.yml"
+      - "apitest/**"
+  workflow_dispatch:
+

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8WAp1Rxy1gU=",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Resume\\Resume\\apitest\\apitest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sande\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\sande\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
